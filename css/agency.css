@@ -452,6 +452,7 @@ header.masthead {
     margin-top: 0; }
 
   .team-member h1 {
+    color: #000;
     text-shadow:
     -1px -1px 0 #000,
     1px -1px 0 #000,
