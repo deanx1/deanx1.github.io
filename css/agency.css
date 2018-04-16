@@ -145,7 +145,7 @@ header.masthead {
         2px -2px 0 #000,
         -2px 2px 0 #000,
         2px 2px 0 #000;
-  background-image: url("../img/windows-xp.jpg");
+  background-image: url("../img/background/hacks.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -462,7 +462,7 @@ header.masthead {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/windows-xp.jpg");
+  background-image: url("../img/background/hacks.png");
   background-repeat: no-repeat;
   background-position: center; }
   section#contact .section-heading {
